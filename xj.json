@@ -1,14 +1,3 @@
-
-//https://github.com/FongMi/Release/tree/main/apk/release
-//
-//https://ghproxy.net/https://github.com/FongMi/Release/raw/main/apk/release/leanback-java-arm64_v8a.apk
-//https://ghproxy.net/https://github.com/FongMi/Release/raw/main/apk/release/leanback-java-armeabi_v7a.apk
-//https://ghproxy.net/https://github.com/FongMi/Release/raw/main/apk/release/leanback-python-arm64_v8a.apk
-//https://ghproxy.net/https://github.com/FongMi/Release/raw/main/apk/release/leanback-python-armeabi_v7a.apk
-//https://ghproxy.net/https://github.com/FongMi/Release/raw/main/apk/release/mobile-java-arm64_v8a.apk
-//https://ghproxy.net/https://github.com/FongMi/Release/raw/main/apk/release/mobile-python-arm64_v8a.apk
-//https://ghproxy.net/https://github.com/FongMi/Release/raw/main/apk/release/mobile-java-armeabi_v7a.apk
-//https://ghproxy.net/https://github.com/FongMi/Release/raw/main/apk/release/mobile-python-armeabi_v7a.apk
 {
 "spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/qjlxg2008/TV/main/spider.jar#https://ghproxy.net/raw.githubusercontent.com/qjlxg2008/TV/main/spider.jar",
 "lives":[{"name":"0","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/qjlxg2008/TV/main/list.txt","playerType":1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
