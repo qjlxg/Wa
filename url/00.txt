@@ -1,0 +1,109 @@
+https://www.ipaddress.com/website/github.com/#ipinfo
+
+https://www.ipaddress.com/website/github.global.ssl.fastly.net/#ipinfo
+
+
+hosts:#20240614
+
+140.82.113.4          https://github.com  #20240614
+151.101.1.194        https://github.global.ssl.fastly.net  #20240614
+151.101.65.194      https://github.global.ssl.fastly.net  #20240614
+151.101.129.194    https://github.global.ssl.fastly.net  #20240614
+151.101.193.194     https://github.global.ssl.fastly.net   #20240614
+
+https://manyline.cloud/start.html
+
+https://freenode.openrunner.net/uploads/20240612-clash.yaml
+
+https://mirror.ghproxy.com/https://github.com/qjlxg/Wa/raw/main/xj.json
+
+https://mirror.ghproxy.com/https://github.com/qjlxg/Wa/raw/main/tg.txt
+
+https://mirror.ghproxy.com/https://github.com/qjlxg/free-node/raw/main/profiles_tg.txt
+
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/qjlxg/ss/master/list_raw.txt
+
+https://mirror.ghproxy.com/https://github.com/qjlxg/proxy-minging/raw/main/v2ray.txt
+
+https://mirror.ghproxy.com/https://github.com/qjlxg/hy2/raw/main/configtg.txt
+
+https://mirror.ghproxy.com/https://github.com/qjlxg/Wa/raw/main/2020.txt
+
+https://mirror.ghproxy.com/https://github.com/qjlxg/Wa/raw/main/2021.txt
+
+https://mirror.ghproxy.com/https://github.com/qjlxg/Wa/raw/main/2022.txt
+
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt
+
+https://mirror.ghproxy.com/https://github.com/qjlxg/free-node/raw/main/public
+
+https://mirror.ghproxy.com/https://github.com/internet4jina/daily/raw/main/hiddify
+
+https://msovpn.us.kg/sub
+
+https://sub.sharecentre.online/sub
+
+https://alvless.filegear-sg.me/CMLiu
+
+
+
+
+
+
+
+
+
+
+
+
+https://mirror.ghproxy.com/
+
+Asia/Shanghai
+
+v2ray_Subscription
+Hiddify_Subscription
+SpeedTest v2ray
+proxypool
+@oneclickvpnkeys
+@DeamNet_proxy
+@DeamNet
+
+- cron: '0 0/1 * * *'
+- cron: '0 */6 * * *'
+- cron: "*/5 * * * *" 
+
+如何提高github的下载速度？
+手动把cdn和ip地址绑定。
+
+访问：http://github.global.ssl.fastly.net.ipaddress.com/#ipinfo 获取cdn和ip域名：
+
+得到：199.232.69.194 https://github.global.ssl.fastly.net
+
+访问：https://github.com.ipaddress.com/#ipinfo 获取cdn和ip：
+
+得到：140.82.112.4 http://github.co
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://mirror.ghproxy.com/https://github.com/qjlxg/app/raw/main/8.json
+
+
