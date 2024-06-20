@@ -1,56 +1,4 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="CCTV-1" tvg-id="1" group-title="央视",CCTV-1高清
-http://mtw.so/6w27E2
-#EXTINF:-1 tvg-name="CCTV-2" tvg-id="2" group-title="央视",CCTV-2高清
-http://mtw.so/5xSr0R
-#EXTINF:-1 tvg-name="CCTV-3" tvg-id="3" group-title="央视",CCTV-3高清
-http://mtw.so/5FoE5y
-#EXTINF:-1 tvg-name="CCTV-4" tvg-id="4" group-title="央视",CCTV-4高清
-http://mtw.so/5G9gkT
-#EXTINF:-1 tvg-name="CCTV-5" tvg-id="5" group-title="央视",CCTV-5高清
-http://mtw.so/5NFtpA
-#EXTINF:-1 tvg-name="CCTV-5+" tvg-id="26" group-title="央视",CCTV-5+高清
-http://mtw.so/5VbDSZ
-#EXTINF:-1 tvg-name="CCTV-6" tvg-id="6" group-title="央视",CCTV-6高清
-http://mtw.so/62HqWM
-#EXTINF:-1 tvg-name="CCTV-7" tvg-id="7" group-title="央视",CCTV-7高清
-http://mtw.so/6adE1t
-#EXTINF:-1 tvg-name="CCTV-8" tvg-id="8" group-title="央视",CCTV-8高清
-http://mtw.so/6hJR6a
-#EXTINF:-1 tvg-name="CCTV-9" tvg-id="9" group-title="央视",CCTV-9高清
-http://mtw.so/6pbS1P
-#EXTINF:-1 tvg-name="CCTV-10" tvg-id="10" group-title="央视",CCTV-10高清
-http://mtw.so/6w27Ec
-#EXTINF:-1 tvg-name="CCTV-11" tvg-id="11" group-title="央视",CCTV-11高清
-http://mtw.so/5xSr2D
-#EXTINF:-1 tvg-name="CCTV-12" tvg-id="12" group-title="央视",CCTV-12高清
-http://mtw.so/5FoDRc
-#EXTINF:-1 tvg-name="CCTV-13" tvg-id="13" group-title="央视",CCTV-13高清
-http://mtw.so/5G9gmF
-#EXTINF:-1 tvg-name="CCTV-14" tvg-id="14" group-title="央视",CCTV-14高清
-http://mtw.so/5NFtrm
-#EXTINF:-1 tvg-name="CCTV-15" tvg-id="15" group-title="央视",CCTV-15高清
-http://mtw.so/5VbDUL
-#EXTINF:-1 tvg-name="CCTV-16" tvg-id="16" group-title="央视",CCTV-16高清
-http://mtw.so/62HqYy
-#EXTINF:-1 tvg-name="CCTV-17" tvg-id="17" group-title="央视",CCTV-17高清
-http://mtw.so/6adE3f
-#EXTINF:-1 tvg-name="CGTN英语" tvg-id="20" group-title="央视",CGTN英语
-http://mtw.so/6hJR7W
-#EXTINF:-1 tvg-name="CGTN法语" tvg-id="21" group-title="央视",CGTN法语
-http://mtw.so/6pbS3B
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-id="22" group-title="央视",CGTN俄语
-http://mtw.so/5xSr2N
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-id="23" group-title="央视",CGTN阿拉伯语
-http://mtw.so/5FoDRm
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-id="24" group-title="央视",CGTN西班牙语
-http://mtw.so/5G9gmP
-#EXTINF:-1 tvg-name="CGTN纪录国际" tvg-id="25" group-title="央视",CGTN纪录国际
-http://mtw.so/5NFtrw
-#EXTINF:-1 tvg-name="CCTV-4K" tvg-id="18" group-title="央视",CCTV-4K超高清
-http://mtw.so/5VbDUV
-#EXTINF:-1 tvg-name="CCTV-4K" tvg-id="19" group-title="央视",CCTV-8K超高清
-http://mtw.so/62HqYI
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png",CCTV4K
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
@@ -60,11 +8,9 @@ http://mtw.so/62HqWM
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV8
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV9
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+http://mtw.so/6pbS1P
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV10
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV10
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
+http://mtw.so/6w27Ec
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV10
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV10
