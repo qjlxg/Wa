@@ -1,4 +1,60 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="東森洋片" tvg-logo="https://live.fanmingming.com/tv/東森洋片.png",東森洋片
+http://171.108.239.76:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="東森洋片" tvg-logo="https://live.fanmingming.com/tv/東森洋片.png",東森洋片
+http://171.108.239.74:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="東森洋片" tvg-logo="https://live.fanmingming.com/tv/東森洋片.png",東森洋片
+http://171.108.239.79:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="東森洋片" tvg-logo="https://live.fanmingming.com/tv/東森洋片.png",東森洋片
+http://171.108.239.77:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="東森電影" tvg-logo="https://live.fanmingming.com/tv/東森電影.png",東森電影
+http://171.108.239.79:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="東森電影" tvg-logo="https://live.fanmingming.com/tv/東森電影.png",東森電影
+http://171.108.239.74:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="東森電影" tvg-logo="https://live.fanmingming.com/tv/東森電影.png",東森電影
+http://171.108.239.77:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="東森電影" tvg-logo="https://live.fanmingming.com/tv/東森電影.png",東森電影
+http://171.108.239.76:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="東森超視" tvg-logo="https://live.fanmingming.com/tv/東森超視.png",東森超視
+http://171.108.239.74:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="東森超視" tvg-logo="https://live.fanmingming.com/tv/東森超視.png",東森超視
+http://171.108.239.76:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="東森超視" tvg-logo="https://live.fanmingming.com/tv/東森超視.png",東森超視
+http://171.108.239.79:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="東森超視" tvg-logo="https://live.fanmingming.com/tv/東森超視.png",東森超視
+http://171.108.239.77:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="天映電影" tvg-logo="https://live.fanmingming.com/tv/天映電影.png",天映電影
+http://171.108.239.74:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="天映電影" tvg-logo="https://live.fanmingming.com/tv/天映電影.png",天映電影
+http://171.108.239.79:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="天映電影" tvg-logo="https://live.fanmingming.com/tv/天映電影.png",天映電影
+http://171.108.239.76:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="天映電影" tvg-logo="https://live.fanmingming.com/tv/天映電影.png",天映電影
+http://171.108.239.77:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png",TVB星河
+http://171.108.239.79:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png",TVB星河
+http://171.108.239.77:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png",TVB星河
+http://171.108.239.74:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png",TVB星河
+http://171.108.239.76:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="私人影院" tvg-logo="https://live.fanmingming.com/tv/私人影院.png",私人影院
+http://171.108.239.74:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="私人影院" tvg-logo="https://live.fanmingming.com/tv/私人影院.png",私人影院
+http://171.108.239.77:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="私人影院" tvg-logo="https://live.fanmingming.com/tv/私人影院.png",私人影院
+http://171.108.239.76:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="私人影院" tvg-logo="https://live.fanmingming.com/tv/私人影院.png",私人影院
+http://171.108.239.79:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="龍祥電影" tvg-logo="https://live.fanmingming.com/tv/龍祥電影.png",龍祥電影
+http://171.108.239.76:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="龍祥電影" tvg-logo="https://live.fanmingming.com/tv/龍祥電影.png",龍祥電影
+http://171.108.239.74:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="龍祥電影" tvg-logo="https://live.fanmingming.com/tv/龍祥電影.png",龍祥電影
+http://171.108.239.79:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="龍祥電影" tvg-logo="https://live.fanmingming.com/tv/龍祥電影.png",龍祥電影
+http://171.108.239.77:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png",CHC动作电影
 http://summer-xa.icopylock.com:8888/udp/239.110.205.6:9770#http://opdf.top:8088/udp/239.81.0.239:4056
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png",CHC影迷电影
