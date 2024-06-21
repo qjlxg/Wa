@@ -160,6 +160,66 @@ https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=ac6d3c2bd562fcc0b8a469b0f3
 https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=0de756307562a692ba6f0fb98c8d836b&txTime=6673F4A3
 #EXTINF:-1 tvg-name="贵州-6" tvg-logo="https://live.fanmingming.com/tv/贵州-6.png",贵州-6
 https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=3de067217777adf9fdb8a5340a93bdec&txTime=6673F44A
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://live.fanmingming.com/tv/TVBS新聞.png",TVBS新聞
+http://www.ubvip1688.com/ublive/2b760ea3afe30259.m3u8
+#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://live.fanmingming.com/tv/TVBS新聞.png",TVBS新聞
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+#EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://live.fanmingming.com/tv/中天新聞.png",中天新聞
+https://www.youtube.com/watch?v=oIgbl7t0S_w
+#EXTINF:-1 tvg-name="中文國際" tvg-logo="https://live.fanmingming.com/tv/中文國際.png",中文國際
+https://www.youtube.com/watch?v=twhG7_jvA8g
+#EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://live.fanmingming.com/tv/中視新聞.png",中視新聞
+http://www.ubvip1688.com/ublive/29da5c8e1f13ef63.m3u8
+#EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://live.fanmingming.com/tv/中視新聞.png",中視新聞
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+#EXTINF:-1 tvg-name="亞洲新聞" tvg-logo="https://live.fanmingming.com/tv/亞洲新聞.png",亞洲新聞
+https://www.youtube.com/watch?v=XWq5kBlakcQ
+#EXTINF:-1 tvg-name="公視新聞" tvg-logo="https://live.fanmingming.com/tv/公視新聞.png",公視新聞
+https://www.youtube.com/watch?v=6ePH1f6zHYE
+#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.com/tv/台視新聞.png",台視新聞
+http://www.ubvip1688.com/ublive/5a066f0301b01440.m3u8
+#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.com/tv/台視新聞.png",台視新聞
+https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1 tvg-name="台視財經" tvg-logo="https://live.fanmingming.com/tv/台視財經.png",台視財經
+http://www.ubvip1688.com/ublive/6db29105de4c91da.m3u8
+#EXTINF:-1 tvg-name="寰宇台灣" tvg-logo="https://live.fanmingming.com/tv/寰宇台灣.png",寰宇台灣
+http://www.ubvip1688.com/ublive/ec965d5ae9294c4f.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="https://live.fanmingming.com/tv/寰宇新聞.png",寰宇新聞
+http://www.ubvip1688.com/ublive/8e1101dbbf87679e.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="https://live.fanmingming.com/tv/寰宇新聞.png",寰宇新聞
+https://www.youtube.com/watch?v=6IquAgfvYmc
+#EXTINF:-1 tvg-name="德國之聲" tvg-logo="https://live.fanmingming.com/tv/德國之聲.png",德國之聲
+https://www.youtube.com/watch?v=tZT2MCYu6Zw
+#EXTINF:-1 tvg-name="日本新聞" tvg-logo="https://live.fanmingming.com/tv/日本新聞.png",日本新聞
+https://www.youtube.com/watch?v=coYw-eVU0Ks
+#EXTINF:-1 tvg-name="東森新聞" tvg-logo="https://live.fanmingming.com/tv/東森新聞.png",東森新聞
+http://www.ubvip1688.com/ublive/b566c9d7601ffe47.m3u8
+#EXTINF:-1 tvg-name="東森新聞" tvg-logo="https://live.fanmingming.com/tv/東森新聞.png",東森新聞
+https://www.youtube.com/watch?v=LuQ4S-i5zoE
+#EXTINF:-1 tvg-name="東森財經" tvg-logo="https://live.fanmingming.com/tv/東森財經.png",東森財經
+https://www.youtube.com/watch?v=WHEPzbFA3hw
+#EXTINF:-1 tvg-name="歐洲新聞" tvg-logo="https://live.fanmingming.com/tv/歐洲新聞.png",歐洲新聞
+https://www.youtube.com/watch?v=pykpO5kQJ98
+#EXTINF:-1 tvg-name="法國新聞" tvg-logo="https://live.fanmingming.com/tv/法國新聞.png",法國新聞
+https://www.youtube.com/watch?v=tkDUSYHoKxE
+#EXTINF:-1 tvg-name="美國新聞" tvg-logo="https://live.fanmingming.com/tv/美國新聞.png",美國新聞
+https://www.youtube.com/watch?v=HQnTDDrdfys
+#EXTINF:-1 tvg-name="英國新聞" tvg-logo="https://live.fanmingming.com/tv/英國新聞.png",英國新聞
+https://www.youtube.com/watch?v=oJUvTVdTMyY
+#EXTINF:-1 tvg-name="華視新聞" tvg-logo="https://live.fanmingming.com/tv/華視新聞.png",華視新聞
+http://www.ubvip1688.com/ublive/7cd0f69c00184583.m3u8
+#EXTINF:-1 tvg-name="華視新聞" tvg-logo="https://live.fanmingming.com/tv/華視新聞.png",華視新聞
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-name="非凡商業" tvg-logo="https://live.fanmingming.com/tv/非凡商業.png",非凡商業
+http://www.ubvip1688.com/ublive/0a6627a1ed05cd3c.m3u8
+#EXTINF:-1 tvg-name="非凡新聞" tvg-logo="https://live.fanmingming.com/tv/非凡新聞.png",非凡新聞
+http://www.ubvip1688.com/ublive/b302748f83e998c1.m3u8
+#EXTINF:-1 tvg-name="韓國新聞" tvg-logo="https://live.fanmingming.com/tv/韓國新聞.png",韓國新聞
+https://www.youtube.com/watch?v=JzuktHxJPPA
+#EXTINF:-1 tvg-name="鳳凰衛視" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視.png",鳳凰衛視
+https://www.youtube.com/watch?v=HFib76ySpbU
+
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png",凤凰卫视
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
