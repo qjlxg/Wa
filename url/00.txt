@@ -1,9 +1,39 @@
+博客：https://xlog.app/search?q=v2ray
+上传文件并共享
+https://igdux.top/
+
+github mirror:
+
+https://github.yutao.vip/
+https://github.getafreenode.com/
+https://kkgithub.com/
+https://git.jl-k.com/
+https://giters.com/
+https://git.codeproxy.net/
+https://github.akamino.cf/
+#https://github.innominds.com/
+
+#      Other  Sources
+
+https://lncn.org
+https://freefq.com
+https://free-ss.site
+https://proxypool.link
+https://clashgithub.com
+https://free.datiya.com
+https://sub.pmsub.me/base64
+https://www.xrayvip.com/free.txt
+https://ircfspace.github.io/tconfig/  #获取配置
+
+
+
+
 https://www.ipaddress.com/website/github.com/#ipinfo
 
 https://www.ipaddress.com/website/github.global.ssl.fastly.net/#ipinfo
 
 
-hosts:#20240614
+hosts:#20240614https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
 140.82.113.4          https://github.com  #20240614
 151.101.1.194        https://github.global.ssl.fastly.net  #20240614
