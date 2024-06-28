@@ -1,55 +1,10 @@
-
-
 {
-"lives": [
+"lives": [{"name": "光迅源","type": 0,"url": "https://88nb.cc/u6wia","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "四川电信","type": 0,"url": "https://88nb.cc/2b0dh","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "酒店源自动更新","type": 0,"url": "https://gitee.com/flying-snow-wu/tv/raw/main/itvlist.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "TVBOX多仓裤","type": 0,"url": "https://gitee.com/ztxiaoyao/tv/raw/master/修改版.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "范明明ipv6反代","type": 0,"url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
-    {
-      "name": "光迅源",
-      "type": 0,
-      "url": "https://88nb.cc/u6wia",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-{
-      "name": "四川电信",
-      "type": 0,
-      "url": "https://88nb.cc/2b0dh",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-
-    {
-      "name": "酒店源自动更新",
-      "type": 0,
-      "url": "https://gitee.com/flying-snow-wu/tv/raw/main/itvlist.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "TVBOX多仓裤",
-      "type": 0,
-      "url": "https://gitee.com/ztxiaoyao/tv/raw/master/修改版.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "范明明ipv6反代",
-      "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/qjlxg/TV/main/spider.jar#https://ghproxy.net/raw.githubusercontent.com/qjlxg/TV/main/spider.jar",
 "wallpaper":"https://7ed.net/bing/api",
 "sites":[
 {"key": "MeiJu69","name":"六九美剧","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/xgapp.php/v2/"},
@@ -124,6 +79,7 @@
 {"key":"新视觉","name":"新视觉","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.6080yy4.com/vodshow/{cateId}--------{catePg}---.html"},
 {"key": "csp_New6v","name": "6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.xb6v.com/"}
 ],
+
 	
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
