@@ -1,5 +1,6 @@
 {
-"lives": [{"name": "光迅源","type": 0,"url": "https://88nb.cc/u6wia","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+"lives": [{"name": "1源","type": 0,"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "光迅源","type": 0,"url": "https://88nb.cc/u6wia","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "四川电信","type": 0,"url": "https://88nb.cc/2b0dh","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "CNTV","type": 0,"url": "https://88nb.cc/eazxo","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "天津联通","type": 0,"url": "https://88nb.cc/oar1g","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
