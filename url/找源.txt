@@ -1,0 +1,30 @@
+通常情况下，IPTV平台的响应头是定制的
+
+比如常见的辽宁移动源执行curl -Li命令
+curl -Li http://39.134.61.219/PLTV/88888888/224/3221226415/index.m3u8
+响应头包含
+Server: HMS Download Service
+常用的网络空间搜索引擎：fofa、shodan、zoomeye、censys
+https://fofa.info/
+https://quake.360.net/
+https://hunter.qianxin.com/
+https://www.zoomeye.org/
+https://www.shodan.io/
+https://search.censys.io/
+搜索结果如图
+
+常见搜索关键字
+组播头
+udproxy平台 Server: udpxy
+单播
+华为平台 Server: HMS Download Service
+酒店
+智慧光迅平台(广东公司) body="ZHGXTV"
+/ZHGXTV/Public/json/live_interface.txt
+http://ip:port/hls/1/index.m3u8
+智慧桌面 智能KUTV(陕西公司) body="/iptv/live/zh_cn.js"
+http://ip:port/tsfile/live/0001_1.m3u8
+华视美达 华视私云(浙江公司) body="华视美达"
+http://ip:port/newlive/live/hls/1/live.m3u8
+地面波串流
+Tvheadend平台 Server: HTS/tvheadend

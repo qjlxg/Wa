@@ -1,5 +1,7 @@
-https://py.kjol.cc/tube
-https://sub.5112233.xyz/auto
+https://shz.al/rjKm  #白嫖频道
+https://sub.5112233.xyz/auto   #橘子公益
+https://oss.v2rayse.com/proxies/data/2024-01-17/hYWvrPB.txt
+https://oss.v2rayse.com/proxies/data/2022-11-13/pdHZ0z.yaml
 
 https://github.com/FNET00bot/FNET00BOT/raw/Config/Base64#
 https://github.com/FNET00bot/FNET00BOT/raw/Config/Main
@@ -16,7 +18,8 @@ https://clashfans.github.io/uploads/2024/06/0-20240613.txt
 https://telegeam.github.io/clashnode/uploads/2024/06/0-20240613.txt
 
 https://clashnode.com/wp-content/uploads/${YYYY}/${MM}/${YYYY}${MM}${DD}.txt
-https://oss.v2rayse.com/proxies/data/2024-01-17/hYWvrPB.txt
+
+
 https://oss.v2rayse.com/proxies/data/2024-03-03/nxJNBGJ.txt
 https://oss.v2rayse.com/proxies/data/2024-05-19/0RR4qd1.txt
 https://oss.v2rayse.com/proxies/data/2024-06-04/ncRBcxb.txt

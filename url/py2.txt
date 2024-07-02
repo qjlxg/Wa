@@ -1,0 +1,4 @@
+changsha 长沙:  "ZHGXTV" && city="Changsha"
+
+湖北："iptv/live/zh_cn.js" && country="CN" && region="Hubei"   
+安徽:  "iptv/live/zh_cn.js" && country="CN" && region="Anhui"
