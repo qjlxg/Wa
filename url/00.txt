@@ -4,14 +4,25 @@ https://igdux.top/
 
 github mirror:
 
+https://github.hode.co.uk/
+https://git.codeproxy.net/
+https://git.histb.com/
+https://m.svideo.site/
+https://git.homegu.com/
+https://github.toolshello.com/
+https://github-cdn.pages.dev/
+https://github.skymusic.top/
 https://github.akamino.cf/
 https://github.yutao.vip/
 https://github.getafreenode.com/
 https://kkgithub.com/
 https://git.jl-k.com/
 https://giters.com/
-https://git.codeproxy.net/
-https://github.akamino.cf/
+
+#https://gh.dolphin-anty-ru.online/
+#https://walker93.software/
+#https://github.hscsec.cn/
+#https://github.akamino.cf/
 #https://github.innominds.com/
 
 #      Other  Sources
@@ -50,7 +61,6 @@ https://mirror.ghproxy.com/https://github.com/qjlxg/Wa/raw/main/xj.json
 
 https://mirror.ghproxy.com/https://github.com/qjlxg/Wa/raw/main/tg.txt
 
-https://mirror.ghproxy.com/https://github.com/qjlxg/free-node/raw/main/profiles_tg.txt
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/qjlxg/ss/master/list_raw.txt
 
@@ -69,6 +79,8 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/AzadNetCH/Clash/mai
 https://mirror.ghproxy.com/https://github.com/qjlxg/free-node/raw/main/public
 
 https://mirror.ghproxy.com/https://github.com/internet4jina/daily/raw/main/hiddify
+
+https://mirror.ghproxy.com/https://github.com/qjlxg/FreeNodes/raw/main/clashAll.yaml
 
 
 
