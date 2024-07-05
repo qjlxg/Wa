@@ -4084,7 +4084,7 @@ proxies:
   server: afa007d388783f3a.cdn.jiashule.com
   type: ss
   udp: true
-proxies:
+
 - cipher: chacha20-ietf-poly1305
   name: AQ-29BA | X1.0 | SS
   password: 3b791f6a-bb75-40b2-a402-2dfb8099714f
