@@ -1,5 +1,5 @@
 proxies:
-  - cipher: chacha20-ietf-poly1305
+- cipher: chacha20-ietf-poly1305
   name: 新加坡 1X
   password: 988c28f2-9388-466f-b7b8-04b85eb64b7d
   port: 42729
