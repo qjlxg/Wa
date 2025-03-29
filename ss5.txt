@@ -4,4 +4,4 @@ https://raw.githubusercontent.com/qjlxg/Mo_jichang_list/refs/heads/main/data/v2r
 https://raw.githubusercontent.com/qjlxg/Mo_hack_proxy/refs/heads/main/data/v2ray.txt
 https://raw.githubusercontent.com/qjlxg/Mo_allv2board/refs/heads/main/data/v2ray.txt
 https://raw.githubusercontent.com/qjlxg/Mo_freeVPNjd/refs/heads/main/data/v2ray.txt
-
+https://raw.githubusercontent.com/qjlxg/aggregator/refs/heads/main/data/v2ray.txt
